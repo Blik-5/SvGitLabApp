@@ -1,0 +1,8 @@
+C:\Users\323\Desktop\GitLabApp\SvGitLabApp\SvGitLabApp\bin\Debug\SvGitLabApp.exe.config
+C:\Users\323\Desktop\GitLabApp\SvGitLabApp\SvGitLabApp\bin\Debug\SvGitLabApp.exe
+C:\Users\323\Desktop\GitLabApp\SvGitLabApp\SvGitLabApp\bin\Debug\SvGitLabApp.pdb
+C:\Users\323\Desktop\GitLabApp\SvGitLabApp\SvGitLabApp\obj\Debug\SvGitLabApp.csproj.AssemblyReference.cache
+C:\Users\323\Desktop\GitLabApp\SvGitLabApp\SvGitLabApp\obj\Debug\SvGitLabApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\323\Desktop\GitLabApp\SvGitLabApp\SvGitLabApp\obj\Debug\SvGitLabApp.csproj.CoreCompileInputs.cache
+C:\Users\323\Desktop\GitLabApp\SvGitLabApp\SvGitLabApp\obj\Debug\SvGitLabApp.exe
+C:\Users\323\Desktop\GitLabApp\SvGitLabApp\SvGitLabApp\obj\Debug\SvGitLabApp.pdb
